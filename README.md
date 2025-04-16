@@ -1,5 +1,6 @@
 # youtube-block-pause-extension
- 
+Stop yourself from pausing your video 
+
 # How to Run it
 1. Download and Unzip "Block Pause.zip"
 2. Go to `chrome://extensions/`
